@@ -10,7 +10,7 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
   * Linear Regression Analysis 
     * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
   * Multivariate Analysis
-  
+
 * Machine Learning
   * [Text Analysis with logisitics Regression from scratch](https://medium.com/@tf642228/text-analysis-with-logistics-linear-model-in-python-35ceeb57f74c)
   * Twitter 

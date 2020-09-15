@@ -7,8 +7,8 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
 ## Table of Contents 
 
 * Statistics
-  * Linear Regression Analysis 
-    * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
+  
+  * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
   * Multivariate Analysis
 
 * Machine Learning
@@ -18,3 +18,7 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
 * Nonlinear Optimization (MATLAB)
 
 * Variational Methods in Image Processing (Framework developed by Professor Eric Baer at The University of Chicago) 
+
+* Mini Projects
+
+ * Plot new COVID-19 cases on a bubble map

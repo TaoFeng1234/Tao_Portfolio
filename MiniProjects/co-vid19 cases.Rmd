@@ -1,0 +1,60 @@
+---
+title: "Covid19 cases bubble map"
+author: "Tao Feng"
+date: "September 15, 2020"
+output: html_document
+---
+
+
+# Bubble plot of COvid-19 cases in the U.S.
+
+Consider the COVID-19 cases in the U.S. New York Times has compiled the data via states and via counties. The data are available on [NYT-Covid19 data](https://github.com/nytimes/covid-19-data). You can also find the locations (latitude and longitude) of each state (or its capital) on the web. 
+
+- obtain dataset 
+```{r echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readr)
+library(maps)
+library(ggplot2)
+#Load data
+usstate <- read_csv("us-states.csv")
+loc <- read_csv("us-state-capitals.csv")
+names(loc)[1] <- "state"
+usstate$date <-as.Date(usstate$date)
+```
+
+- Use the cumulative data of March 31, 2020 to obtain a bubble plot for the number of cases of the US.
+
+```{R}
+#collect march 31 data
+march31<-usstate[usstate$date == '2020-03-31',]
+#merging march 31 data with corresponding longtitude and latitude
+df <- merge(march31,loc, by = "state")[c(-2,-11),] #take out Hawaii and Alaska
+#plot
+usa <- map_data("state")
+ggplot() +
+geom_path(data = usa, aes(x = long, y = lat, group = group)) +
+geom_point(data = df, aes(x = longitude, y = latitude, size = cases),shape = 1, color = "red") +
+  scale_size(range = c(.5, 20), name="Cases") +
+  labs(x = "longtitudes", y = "lattitudes", title = "The number of cases of each states on March 31 ")
+```
+
+- Use the cumulative data of April 3, 2020 to obtain a bubble plot for the number of cases of the US. 
+
+```{R message=FALSE, warning=FALSE}
+#collect April 3 data
+April<-usstate[usstate$date== '2020-04-03',]
+#merging march 31 data with corresponding longtitude and latitude
+df <- merge(April,loc, by = "state")[c(-2,-11),] #take out Hawaii and Alaska
+#plot
+usa <- map_data("state")
+ggplot() +
+geom_path(data = usa, aes(x = long, y = lat, group = group)) +
+geom_point(data = df, aes(x = longitude, y = latitude, size = cases), shape = 1, color = "red") +
+  scale_size(range = c(.5, 20), name="Cases")+
+  labs(x = "longtitudes", y = "lattitudes", title = "The number of cases of each states on April 03 ")
+```
+
+- Compare and comment of the two bubble plots.
+
+We can see significant increase of the cases from March 31 2020 to April 03 2020.
+Northeastern region has the more cases than anyother region. 

@@ -23,4 +23,4 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
 
   * Plot new COVID-19 cases on a bubble map [[Code]](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/MiniProjects/co-vid19%20cases.Rmd)
     
-    <img src="image/covid.PNG" width = "600">
+    <img src="image/mar30covidcases.png" width = "600">

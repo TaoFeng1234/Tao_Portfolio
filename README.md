@@ -34,7 +34,7 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
   In this project, I first fit the LR on the training data and calculate the MSE on the training set with $\lambda$ chose from 0 to 0.04 with a step of 0.001. Plot on the left shows different lambda with the corrsesponding training MSE.
   
   
-<img src="image/lass1.png" width = "350"> <img src="image/lass2.png" width = "350">
+     <img src="image/lass1.png" width = "350">   <img src="image/lass2.png" width = "350">
    
    
   
@@ -51,4 +51,4 @@ MSE on the hold-out set with the true MSE which is computed on the test set. The
 
   * Plot new COVID-19 cases on a bubble map [[R]](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/MiniProjects/co-vid19%20cases.Rmd)
     
-    <img src="image/mar30covidcases.png" width = "500" length = "400">
+    <img src="image/mar30covidcases.png" width = "500" length = "200">

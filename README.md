@@ -35,12 +35,10 @@ Disclaimer: Data used in the projects in this repo is for education and demonstr
   
      <img src="image/lass1.png" width = "450">   <img src="image/lass2.png" width = "450">
    
-  * [Decision Tree and Pruning](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/DecisionTreePruning.ipynb)
-  
   With 10-fold cross validation implementomg on the training set to select $\lambda$. Plot on the right above compares the
 MSE on the hold-out set with the true MSE which is computed on the test set. The best $\lambda$ value could be achieved around 13.
 
-  
+  * [Decision Tree and Pruning](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/DecisionTreePruning.ipynb)
   
 * Nonlinear Optimization [MATLAB]
 

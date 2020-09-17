@@ -25,20 +25,23 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
   
   Observation: The accuracy for each decision tree, random forest, and AdaBoost starts at a relatively low rate. The accuracy increases as the size of the training dataset increase. The accuracy for logistic regression, LDA, NB, Neural Network, SVM and Gaussion Processes strats high and did not chance much as the size of the training set increases. 
   
-  *Reference: https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py
+  *Reference: https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py*
   
 
   * [Lasso Regression MSE vs Lambda](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/LassoEstimate.ipynb)
   
   The Lasso object is to minimize RSS($\beta$) + $\lambda\sum_{i}\beta_{i}$. 
-  In this project, I first fit the LR on the training data and calculate the MSE on the training set with $\lambda$ chose from 0 to 0.04 with a step of 0.001. Plot below shows different lambda with the corrsesponding training MSE.
+  In this project, I first fit the LR on the training data and calculate the MSE on the training set with $\lambda$ chose from 0 to 0.04 with a step of 0.001. Plot on the left shows different lambda with the corrsesponding training MSE.
   
-   <img src="image/lass1.png" width = "600">
   
-  With 10-fold cross validation implementomg on the training set to select $\lambda$. Plot below compares the
+<img src="image/lass1.png" width = "350"> <img src="image/lass2.png" width = "350">
+   
+   
+  
+  With 10-fold cross validation implementomg on the training set to select $\lambda$. Plot on the right above compares the
 MSE on the hold-out set with the true MSE which is computed on the test set. The best $\lambda$ value could be achieved around 13.
 
-   <img src="image/lass2.png" width = "600">
+  
   
 * Nonlinear Optimization (MATLAB)
 

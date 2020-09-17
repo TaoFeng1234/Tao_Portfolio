@@ -2,7 +2,7 @@
 
 Welcome to my Data Science Portfolio! This repository contains of projects I have done throughout the years of acadmeic training, self-learning, and voluntary work, etc. Connecct me on Linkedin at https://www.linkedin.com/in/tao-feng-554184a6/ 
 
-Disclaimer: Data used in the projects in this repo is for demonstration purposes only.
+Disclaimer: Data used in the projects in this repo is for education and demonstration purposes only.
 
 ## Table of Contents 
 
@@ -47,7 +47,7 @@ MSE on the hold-out set with the true MSE which is computed on the test set. The
 
 * Variational Methods in Image Processing (Framework developed by Professor Eric Baer at The University of Chicago) [Python]
 
-* [SQL] (https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/SQL_Practice.pdf)
+* [SQL](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/SQL_Practice.pdf)
 
 * Ad-hoc Projects
 

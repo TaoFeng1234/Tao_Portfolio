@@ -14,7 +14,7 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
 * Machine Learning Impletmentations
   * [Text Analysis with logisitics Regression from scratch](https://medium.com/@tf642228/text-analysis-with-logistics-linear-model-in-python-35ceeb57f74c)
   
-* Machine Learning Algorithm 
+* Machine Learning Algorithm [Python]
   * [Comparison of different Classifier Models with `sklearn`](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/CompraisonofClassifers.ipynb)
   
    In this practice, I first compare the performance of different classifier models on a given binary classification task. Then I test how the performance of each of the classifiers varies as the size of the training set increase. 
@@ -30,7 +30,7 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
 
   * [Lasso Regression MSE vs Lambda](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/LassoEstimate.ipynb)
   
-  The Lasso object is to minimize RSS($\beta$) + $\lambda\sum_{i}\beta_{i}$. 
+  The Lasso object is to minimize RSS($$\beta$$) + $$\lambda\sum_{i}\beta_{i}$$. 
   In this project, I first fit the LR on the training data and calculate the MSE on the training set with $\lambda$ chose from 0 to 0.04 with a step of 0.001. Plot on the left shows different lambda with the corrsesponding training MSE.
   
   
@@ -49,6 +49,6 @@ MSE on the hold-out set with the true MSE which is computed on the test set. The
 
 * Mini Projects
 
-  * Plot new COVID-19 cases on a bubble map [[Code]](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/MiniProjects/co-vid19%20cases.Rmd)
+  * Plot new COVID-19 cases on a bubble map [[R]](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/MiniProjects/co-vid19%20cases.Rmd)
     
-    <img src="image/mar30covidcases.png" width = "600">
+    <img src="image/mar30covidcases.png" width = "500" length = "400">

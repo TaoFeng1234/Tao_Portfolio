@@ -6,12 +6,12 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
 
 ## Table of Contents 
 
-* Statistics
+* Statistics [R]
   
   * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
   * Multivariate Analysis
 
-* Machine Learning Impletmentations
+* Machine Learning Impletmentations [Python]
   * [Text Analysis with logisitics Regression from scratch](https://medium.com/@tf642228/text-analysis-with-logistics-linear-model-in-python-35ceeb57f74c)
   
 * Machine Learning Algorithm [Python]
@@ -43,11 +43,13 @@ MSE on the hold-out set with the true MSE which is computed on the test set. The
 
   
   
-* Nonlinear Optimization (MATLAB)
+* Nonlinear Optimization [MATLAB]
 
-* Variational Methods in Image Processing (Framework developed by Professor Eric Baer at The University of Chicago) 
+* Variational Methods in Image Processing (Framework developed by Professor Eric Baer at The University of Chicago) [Python]
 
-* Mini Projects
+* [SQL] (https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/SQL_Practice.pdf)
+
+* Ad-hoc Projects
 
   * Plot new COVID-19 cases on a bubble map [[R]](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/MiniProjects/co-vid19%20cases.Rmd)
     

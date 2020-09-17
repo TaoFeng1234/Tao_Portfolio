@@ -8,6 +8,7 @@ Disclaimer: Data used in the projects in this repo is for education and demonstr
 
 * Statistics [R]
   
+  * [Analysis with Missing Data](https://rpubs.com/tf642228/648385)
   * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
   * Multivariate Analysis
 

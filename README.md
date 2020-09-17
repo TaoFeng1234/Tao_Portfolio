@@ -11,8 +11,10 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
   * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
   * Multivariate Analysis
 
-* Machine Learning
+* Machine Learning Impletmentations
   * [Text Analysis with logisitics Regression from scratch](https://medium.com/@tf642228/text-analysis-with-logistics-linear-model-in-python-35ceeb57f74c)
+  
+* Machine Learning Algorithm 
   * [Comparison of different Classifier Models with `sklearn`](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/CompraisonofClassifers.ipynb)
   
   Developed from a coursework project. In this practice, I first compare the performance of below models on a given binary classification task. Then I test how the performance of each of the classifiers varies as the size of the training set increase. 
@@ -43,7 +45,10 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
    
    (9) Support vector machine
 
-
+  * [Lasso Regression MSE vs Lambda](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/LassoEstimate.ipynb)
+  
+  
+  
 * Nonlinear Optimization (MATLAB)
 
 * Variational Methods in Image Processing (Framework developed by Professor Eric Baer at The University of Chicago) 

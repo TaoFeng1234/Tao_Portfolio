@@ -34,7 +34,7 @@ Disclaimer: Data used in the projects in this repo is for demonstration purposes
   In this project, I first fit the LR on the training data and calculate the MSE on the training set with $\lambda$ chose from 0 to 0.04 with a step of 0.001. Plot on the left shows different lambda with the corrsesponding training MSE.
   
   
-     <img src="image/lass1.png" width = "350">   <img src="image/lass2.png" width = "350">
+     <img src="image/lass1.png" width = "450">   <img src="image/lass2.png" width = "450">
    
    
   

@@ -22,7 +22,6 @@ Github: https://github.com/TaoFeng1234/Tao_Portfolio
   
   * [Analysis with Missing Data](https://rpubs.com/tf642228/648385)
   * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
-  * Multivariate Analysis
 
 * Machine Learning Impletmentations [Python]
   * [Text Analysis with logisitics Regression from scratch](https://medium.com/@tf642228/text-analysis-with-logistics-linear-model-in-python-35ceeb57f74c)
@@ -53,13 +52,13 @@ MSE on the hold-out set with the true MSE which is computed on the test set. The
 
   * [Decision Tree and Pruning](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/DecisionTreePruning.ipynb)
   
-* Nonlinear Optimization [MATLAB]
+* Nonlinear Optimization (Coming Soon) [MATLAB]
 
-* Variational Methods in Image Processing (Framework developed by Professor Eric Baer at The University of Chicago) [Python]
+* Variational Methods in Image Processing (Coming Soon) [Python]
 
 * [SQL](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/SQL_Practice.pdf)
 
-* Ad-hoc Projects
+* Ad-hoc Projects 
 
   * Plot new COVID-19 cases on a bubble map [[R]](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/MiniProjects/co-vid19%20cases.Rmd)
     

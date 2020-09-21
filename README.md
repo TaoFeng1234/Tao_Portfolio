@@ -10,9 +10,11 @@ My Data science jounery commenced when I first learned about Python. When I was 
 
 Currently, I am pursing my Master's degree at the University of Chicago. My coursework and research at the University of Chicago involved multivariate analysis, machine learning algorithms, and matrix computation. My proficiencies in statistical and analytic modeling tools are but not limited to Matlab, Python, R, and SQL. If you are also a continuous learner and data enthusiast please connect with my on github, medium or any other platforms. Looking forward to hearing your stories!
 
-Medium: https://medium.com/@tf642228
-Linkedin: https://www.linkedin.com/feed/
-Github: https://github.com/TaoFeng1234/Tao_Portfolio
+**Medium**: https://medium.com/@tf642228
+
+**Linkedin**: https://www.linkedin.com/feed/
+
+**Github**: https://github.com/TaoFeng1234/Tao_Portfolio
 
 
 

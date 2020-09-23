@@ -28,7 +28,7 @@ Currently, I am pursuing my Master's degree at the University of Chicago. My cou
 * Machine Learning Impletmentations [Python]
   * [Text Analysis with logisitics Regression from scratch](https://medium.com/@tf642228/text-analysis-with-logistics-linear-model-in-python-35ceeb57f74c)
   
-* Machine Learning Algorithm [Python]
+* Supervised Learning Algorithm [Python]
   * [Comparison of different Classifier Models with `sklearn`](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/CompraisonofClassifers.ipynb)
   
    In this practice, I first compare the performance of different classifier models on a given binary classification task. Then I test how the performance of each of the classifiers varies as the size of the training set increase. 
@@ -54,6 +54,10 @@ MSE on the hold-out set with the true MSE which is computed on the test set. The
 
   * [Decision Tree and Pruning](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/DecisionTreePruning.ipynb)
   
+* Unsupervised Learning Algorithm
+  
+  * [K - Means[R]](https://rpubs.com/tf642228/665000)
+
 * Nonlinear Optimization (Coming Soon) [MATLAB]
 
 * Variational Methods in Image Processing (Coming Soon) [Python]

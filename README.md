@@ -20,11 +20,6 @@ Currently, I am pursuing my Master's degree at the University of Chicago. My cou
 
 ## Table of Contents 
 
-* Statistics [R]
-  
-  * [Analysis with Missing Data](https://rpubs.com/tf642228/648385)
-  * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
-
 * Machine Learning Impletmentations [Python]
   * [Text Analysis with logisitics Regression from scratch](https://medium.com/@tf642228/text-analysis-with-logistics-linear-model-in-python-35ceeb57f74c)
   
@@ -57,6 +52,11 @@ MSE on the hold-out set with the true MSE which is computed on the test set. The
 * Unsupervised Learning Algorithm
   
   * [K - Means[R]](https://rpubs.com/tf642228/665000)
+
+* Statistics [R]
+  
+  * [Analysis with Missing Data](https://rpubs.com/tf642228/648385)
+  * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
 
 * Nonlinear Optimization (Coming Soon) [MATLAB]
 

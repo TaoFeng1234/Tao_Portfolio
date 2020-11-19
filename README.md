@@ -19,9 +19,6 @@ Currently, I am pursuing my Master's degree at the University of Chicago. My cou
 
 
 ## Table of Contents 
-
-* Time Series Analysis [Python]
-  * [Estimate Groupon Gross Billing in 2013 Q4](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/Groupon.ipynb)
   
 * Machine Learning Impletmentations [Python]
   * [Text Analysis with logisitics Regression from scratch](https://medium.com/@tf642228/text-analysis-with-logistics-linear-model-in-python-35ceeb57f74c)

@@ -38,7 +38,7 @@ Currently, I am pursuing my Master's degree at the University of Chicago. My cou
   * [Analysis with Missing Data](https://rpubs.com/tf642228/648385)
   * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
 
-* Nonlinear Optimization (Coming Soon) [MATLAB]
+* Linear Algebra [MATLAB]
 
 * Variational Methods in Image Processing (Coming Soon) [Python]
 

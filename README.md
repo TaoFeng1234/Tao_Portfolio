@@ -12,9 +12,7 @@ Currently, I am pursuing my Master's degree at the University of Chicago. My cou
 
 **Medium**: https://medium.com/@tf642228
 
-**Linkedin**: https://www.linkedin.com/feed/
-
-**Github**: https://github.com/TaoFeng1234/Tao_Portfolio
+**Linkedin**: https://www.linkedin.com/in/tao-feng-554184a6/
 
 
 
@@ -38,11 +36,7 @@ Currently, I am pursuing my Master's degree at the University of Chicago. My cou
   * [Analysis with Missing Data](https://rpubs.com/tf642228/648385)
   * [OLS Analysis with Galapagos-island data](https://rpubs.com/tf642228/657767)
 
-* Linear Algebra [MATLAB]
-
-* Variational Methods in Image Processing (Coming Soon) [Python]
-
-* [SQL](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/SQL_Practice.pdf)
+* [SQL Practice](https://github.com/TaoFeng1234/Tao_Portfolio/blob/master/SQL_Practice.pdf)
 
 * Ad-hoc Projects 
 
